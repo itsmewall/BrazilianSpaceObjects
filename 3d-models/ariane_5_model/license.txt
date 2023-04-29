@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ariane 5 model
+* source:	https://sketchfab.com/3d-models/ariane-5-model-88a1de562245402da653bc1ae92b1b91
+* author:	bobymonsuta (https://sketchfab.com/bobymonsuta)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ariane 5 model" (https://sketchfab.com/3d-models/ariane-5-model-88a1de562245402da653bc1ae92b1b91) by bobymonsuta (https://sketchfab.com/bobymonsuta) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
