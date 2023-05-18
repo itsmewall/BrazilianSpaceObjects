@@ -9,26 +9,9 @@ Este projeto consiste em uma aplicação que utiliza JavaScript e Python para vi
 ### Requisitos
 Para rodar esta aplicação, são necessários:
 
-- Node.js (versão 12 ou superior)
+- React
 - Python (versão 3.6 ou superior)
 - Biblioteca Three.js (versão 129 ou superior)
-
-### Como rodar a aplicação
-- Clone o repositório em sua máquina:
-
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-
-- Instale as dependências necessárias:
-npm install
-
-- Rode o servidor:
-node server.js
-
-- Abra o navegador e acesse o endereço:
-http://localhost:3000/
-
-- Carregar os dados
-Para carregar os dados dos objetos espaciais brasileiros, é necessário executar a função carregarDados do arquivo App.js.
 
 ### Autores
 - Wallace Ferreira
